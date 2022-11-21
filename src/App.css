@@ -1,0 +1,36 @@
+body{
+  margin-top: 0px;
+}
+.App {
+  text-align: center;
+  height: auto;
+}
+.Header{
+  text-align: center;
+}
+.Dark{
+  background-color: white;
+  color: #252525;
+}
+.Light{
+  background-color: #322f2f;
+  color: white
+}
+.cart{
+  background-color: white;
+  color: #252525;
+  cursor: pointer;
+}
+.hh{
+  margin: 0px;
+  padding: 30px;
+  border: 1px solid red;
+  border-radius: 10px;
+  margin: 15px;
+}
+.fav{
+  display: flex;
+  flex: start;
+  margin: 0px;
+  margin-left: 15px;
+}
