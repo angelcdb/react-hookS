@@ -14,7 +14,7 @@ const Footer = () => {
           </a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/angel-contreras-react-junior-748094218/">
+          <a href="https://www.linkedin.com/in/angel-contreras-748094218/">
             <img src={linkedin}  alt="imagen" />
           </a>
         </li>
